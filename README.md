@@ -81,6 +81,10 @@ See [`water_ph_detector.ino`](water_ph_detector.ino) for the full Arduino sketch
 
 The RC (Resistance-Capacitance) circuit is the core sensing mechanism. When the pH of water changes, the ionic concentration changes, which alters the resistance seen by the circuit. This variation is captured as a change in voltage across the capacitor, which the Arduino reads as an analog signal proportional to pH.
 
+## Demo
+
+![Robot in action — pH:36 on display](assets/robot_demo.jpg)
+
 ---
 
 ## Applications
