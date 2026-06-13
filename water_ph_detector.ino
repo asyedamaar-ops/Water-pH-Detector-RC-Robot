@@ -1,8 +1,4 @@
 /*
-  Water pH Detector RC Robot
-  Course: Computer Organization and Architecture (21CSS201T)
-  SRM Institute of Science and Technology, Kattankulathur
-
   Description:
     Reads analog pH sensor data from pin A0, converts the raw
     ADC value to voltage, and prints it to the Serial Monitor.
