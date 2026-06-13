@@ -119,21 +119,6 @@ The RC (Resistance-Capacitance) circuit is the core sensing mechanism. When the 
 
 ---
 
-## Team
-
-| Name | Roll Number |
-|---|---|
-| Syed Amaar Andrabi | RA2311026010439 |
-| Aryan Khanna | RA2311026010441 |
-| Devdarsh Singh | RA2311026010443 |
-
-**Guide:** Dr. Vijayalakshmi K, Assistant Professor, Dept. of Computing Technologies  
-**Institution:** SRM Institute of Science and Technology, Kattankulathur  
-**Course:** 21CSS201T — Computer Organization and Architecture  
-**Semester:** III (Odd Semester 2024–25)
-
----
-
 <div align="center">
 <sub>Built with Arduino · RC Sensing · RF Control · C++</sub>
 </div>
