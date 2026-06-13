@@ -4,11 +4,6 @@
 
 **A remote-controlled robot that measures water pH in real time using an RC circuit and Arduino.**
 
-[![Arduino](https://img.shields.io/badge/Arduino-Uno-00979D?style=flat-square&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-[![Language](https://img.shields.io/badge/Language-C%2B%2B%20%2F%20Arduino-blue?style=flat-square)]()
-[![Course](https://img.shields.io/badge/Course-Computer%20Organization%20%26%20Architecture-orange?style=flat-square)]()
-[![Institution](https://img.shields.io/badge/SRM%20IST-Kattankulathur-red?style=flat-square)]()
-
 </div>
 
 ---
