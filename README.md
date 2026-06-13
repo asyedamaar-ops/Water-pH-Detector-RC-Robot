@@ -83,7 +83,7 @@ The RC (Resistance-Capacitance) circuit is the core sensing mechanism. When the 
 
 ## Demo
 
-![Robot in action — pH:36 on display](Picture 1.jpg)
+![Robot in action — pH:36 on display](Picture%201.jpg)
 
 ---
 
