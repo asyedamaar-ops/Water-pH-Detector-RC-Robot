@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ## Overview
 
 This project combines robotics and analog sensing to build a portable, remote-controlled robot that can navigate to a water source and measure its pH level on the spot.
